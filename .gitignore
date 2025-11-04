@@ -1,5 +1,9 @@
 # Ignore node_modules directory
 node_modules/
+.env
+server1.js
+server2.js
+server3.js
 
 
 # other entries...
